@@ -12,6 +12,8 @@
         {{ if .Site.Params.logo }}
             <a class="blog-logo" href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{.Site.Params.logo}}" alt="Blog Logo" /></a>
         {{end}}
+	{{ partial "navigation.html" . }}
+	<!--
         {{ if .Site.Menus.main }}
             <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
         {{else}}
@@ -21,6 +23,8 @@
               <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;Subscribe</a>
             {{end}}
         {{end}}
+	-->
+
     </nav>
 <div class="vertical">
         <div class="main-header-content inner">
