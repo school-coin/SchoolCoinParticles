@@ -1,7 +1,7 @@
 
 BaseUrl= "/"
 LanguageCode= "en-US"
-Title= "School Coin"
+Title= "SchoolCoin"
 paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2018"
