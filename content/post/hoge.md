@@ -7,7 +7,7 @@ image = ""
 menu = ""
 share = false
 slug = "test"
-title= "test post"
+title= "Weclome to the SchoolCoin Project!"
 +++
 
 ```bash
