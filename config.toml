@@ -1,16 +1,16 @@
-BaseUrl= "http://syui.github.io/hugo-theme-air/"
+BaseUrl= "/"
 LanguageCode= "en-US"
-Title= "Hugo Theme Air"
+Title= "SchoolCoin"
 paginate = 5
 DisqusShortname = ""
-Copyright = "All rights reserved - 2016"
+Copyright = "All rights reserved - 2018"
 canonifyurls = true
 
 [author]
-  name = "syui"
+  name = "tgunz"
 
 [params]
-  description = "this is my description"
+  description = "A clear path to the security & Privacy of digital money"
   cover = "images/user.jpg"
   author = "syui"
   authorlocation = ""
@@ -23,4 +23,4 @@ canonifyurls = true
   githubName = "syui"
   twitterName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
+  hideHUGOSupport = true
