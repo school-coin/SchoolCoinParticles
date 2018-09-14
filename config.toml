@@ -10,7 +10,7 @@ canonifyurls = true
   name = "tgunz"
 
 [params]
-  description = "A clear path to the security & Privacy of digital money"
+  description = "A clear path to the security & privacy of digital money"
   cover = "images/user.jpg"
   author = "syui"
   authorlocation = ""
