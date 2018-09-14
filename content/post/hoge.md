@@ -11,5 +11,5 @@ title= "test post"
 +++
 
 ```bash
-echo "hello world !!"
+echo "Hello World !!"
 ```
