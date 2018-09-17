@@ -1414,7 +1414,7 @@ body:not(.post-template) .post-title {
    9. Footer - The bottom of every page
    ========================================================================== */
 
-.site-footer {
+ .site-footer {
     position: relative;
     margin: 8rem 0 0 0;
     padding: 0.5rem 15px;
@@ -1442,7 +1442,7 @@ body:not(.post-template) .post-title {
     text-align: right;
 }
 
-.copyright {
+ .copyright {
     display: block;
     width: 45%;
     float: left;
