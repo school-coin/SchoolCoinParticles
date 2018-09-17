@@ -1448,7 +1448,7 @@ body:not(.post-template) .post-title {
     float: left;
 }
 
-/*.btn-bootstrap-2 {
+.btn-bootstrap-2 {
     /* display: block; */
     /* position: absolute; */
     /* z-index: 100; */
