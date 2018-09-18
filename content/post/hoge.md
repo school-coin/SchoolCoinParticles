@@ -11,5 +11,5 @@ title= "Weclome to the SchoolCoin Project!"
 +++
 
 ```bash
-echo "Hello World !!"
+echo "Check back later this web platfrom is currently under development!!"
 ```
